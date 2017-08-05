@@ -2,7 +2,7 @@ The moineau pump is the recommended method of pumping slurries, as viscosity doe
 
 Moineau pumps are comprised primarily of a rotor and a stator. The rotor is (usually) driven eccentrically while the stator is held in place.
 
-![Moineau Assembly](Moineau.PNG)
+![Moineau Assembly](PhoXtruderV1.PNG)
 
 In addition to the rotor and stator, this design includes:
 
