@@ -1,4 +1,4 @@
-# MagPhoXtruder
+# PhoXtruder
 Open Source design for extruding Magnesia-Phosphate cement.
 
 ## What is Magnesium Phosphate Cement (MPC)?
