@@ -10,3 +10,5 @@ One thing inhibiting the adoption of this material is the fast cure time - the s
 ## Why open source?
 For one, that is where the talent is in the 3D printing world.  For another thing, this is a technology that needs to be shared to help people now in need of housing.  Finally, it is my dream to really save humanity and eventually use this technology to autonomously construct habitats on Mars, where phosphates are 5 times as abundant as on Earth. 
 
+## Where do I start?
+Check out the wiki or dive into the design tree.
