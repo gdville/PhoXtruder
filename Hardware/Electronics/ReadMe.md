@@ -12,4 +12,6 @@ You will need the following components:
 * 1ea MEGA2560
 * 1ea RAMPS cape with motor drivers
 * 1ea NEMA17 stepper motor with 5:1 planetary gear drive for the moineau pump
-* (3ea NEMA23 stepper motors for the cartesian or delta positioning system)
+
+In the near term, this extruder system is intended to be used with existing 3D printer designs.  However, it may be advisable to replace NEMA7 motors with NEMA23 steppers.
+
