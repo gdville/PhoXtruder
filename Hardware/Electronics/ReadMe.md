@@ -1,6 +1,6 @@
 This system is designed to be controlled with RAMPS/MEGA electronics modified to run at 18-20Vdc. 
 The reason for this is that 
-* The intent is to eventually power the system with standard power tool (rechargeable) lithium batteries.
+* The intent is to eventually power the system with standard power tool (rechargeable) lithium batteries, which are typically either 18V or 20V.
 * Higher voltage provides more power to the motors. 
 
 Note that by driving the electronics at higher voltage, it is imperative that heat sinks and fans are used to cool the motor drivers and (possibly) the motors themselves.
