@@ -1,3 +1,4 @@
+# Stator
 The stator body is made from silicone, and enclosed in 1" PVC, with PLA or ABS caps.
 
 Included here is a model of the stator itself. However, to manufacture it in silicone you can do the following:
