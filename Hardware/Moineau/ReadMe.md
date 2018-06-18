@@ -1,4 +1,4 @@
-The moineau pump is the recommended method of pumping slurries, as viscosity does not really effect the flow rate.
+The moineau pump is a controlled method of pumping slurries. While this method does not provide efficient mixin, it does pump at a constant rate (for a given speed) regardless of viscosity.
 
 Moineau pumps are comprised primarily of a rotor and a stator. The rotor is (usually) driven eccentrically while the stator is held in place.
 
