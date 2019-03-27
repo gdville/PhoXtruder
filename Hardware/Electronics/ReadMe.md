@@ -13,5 +13,5 @@ You will need the following components:
 * 1ea RAMPS cape with motor drivers
 * 1ea NEMA17 stepper motor with 5:1 planetary gear drive for the moineau pump
 
-In the near term, this extruder system is intended to be used with existing 3D printer designs.  However, it may be advisable to replace NEMA7 motors with NEMA23 steppers.
+In the near term, this extruder system is intended to be used with existing 3D printer designs.  However, it may be advisable to replace NEMA17 motors with NEMA23 steppers.
 
